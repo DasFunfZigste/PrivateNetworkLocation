@@ -1,0 +1,6 @@
+[package]
+script_dir = scripts
+description = Script to add tags to SRC/DST in Conn.log with locally defined locality information
+[input localnetdef.db]
+summary=A table of subnets and names
+description=A table mapping subnets to their names
